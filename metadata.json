@@ -1,0 +1,6 @@
+{
+  "name": "AI Generator",
+  "description": "Single-screen Android application generating AI responses with Google AI Studio Gemini model and AdMob banner ads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
